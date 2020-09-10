@@ -1,0 +1,288 @@
+
+@media (max-width: 1199px) {
+
+}
+@media (max-width: 991px) {
+	.et-navbar-auto .nav-links > li > a{
+		padding: 10px;
+	}
+	.et-navbar-auto .add-car{
+		padding: 10px;
+		font-size: 16px;
+	}
+	.et-navbar-auto .add-car:before{
+		width: 20px;
+		height: 20px;
+	}
+	.et-topbar-auto .business{
+		font-size: 16px;
+	}
+	.et-topbar-auto .actions{
+		font-size: 14px;
+	}
+	.et-topbar-auto i[class^="icon-"], .et-topbar-auto i[class*=" icon-"]{
+		font-size: inherit;
+	}
+	.notification-bubble{
+		width: 18px;
+		height: 18px;
+		font-size: 12px;
+		left: -10px;
+		top: -10px;
+	}
+	.et-topbar-auto .business span:not(:last-child), .et-topbar-auto .actions > a:not(:last-child), .et-topbar-auto .actions .et-dropdown-auto{
+		margin-right: 10px;
+	}
+	.et-slider-auto h1{
+		font-size: 3rem;
+	}
+	.et-slider-auto .slider-caption{
+		top: 50%;
+	}
+	.et-cta-main-auto .display-4{
+		font-size: 2.5rem;
+	}
+	.et-whyus-auto{
+		height: auto;
+	}
+	.et-topbar-auto .business > span:last-child{
+		display: none;
+	}
+	.et-navbar-auto .nav-links > li > a{
+		font-size: 16px;
+	}
+	.et-topbar-auto .business > span{
+		display: block;
+	}
+	.et-contact-cards-auto .c-card{
+		margin: 20px auto;
+	}
+}
+
+@media (max-width: 767px) {
+	.et-slider-auto.landing2{
+		text-align: center;
+	}
+	.et-slider-auto.landing2 .item{
+		padding: 2em;
+	}
+	.pricing-box-2{
+		margin-top: 2em;
+	}
+	.footer-nav-2 li,
+	.bottom-nav-2 li{
+		margin: 10px;
+	}
+	.et-footer-auto-landing2{
+		padding: 70px 30px 0;
+	}
+	.et-plans-auto.landing2 .plan-icon{
+		position: unset;
+	}
+	.et-testimonial-auto-landing2 .w-75{
+		width: 100%!important;
+	}
+	.et-slider-auto.landing2 .text-left,
+	.et-slider-auto.landing2 .text-right{
+		text-align: center !important;
+	}
+	.et-slider-auto.landing2 .text-right{
+		display: none;
+	}
+	.et-slider-auto.landing2 h2{
+		font-size: 23px;
+	}
+	.et-slider-auto.landing2 .car-features span{
+		width: auto;
+	}
+	.calculator-form:after{
+		display: none;
+	}
+	.et-topbar-auto.landing2{
+		padding: 16px;
+	}
+	.et-topbar-auto.landing2 .business{
+		width: 100%;
+	}
+	.dealer-grp-auto .dealer-logo{
+		margin: 0 auto 20px;
+	}
+	.dealer-grp-auto .dealer-show-contact{
+		margin-bottom: 20px;
+	}
+	.dealer-grp-auto .thumb-actions{
+		position: relative;
+		display: block;
+		width: 100%;
+		right: 0;
+	}
+	.dealer-grp-auto .thumb-actions a{
+		display: inline-flex;
+	}
+	.et-compare-auto .fix-height{
+		height: auto;
+	}
+	.et-compare-auto .features-list li{
+		font-size: 16px;
+	}
+	.sidewidget-auto{
+		text-align: center;
+	}
+	.sidewidget-auto.related-posts .related-thumbnail{
+		margin: 0 auto;
+	}
+	.sidewidget-auto.categories ul{
+		text-align: left;
+	}
+	.et-topbar-auto,
+	.et-topbar-auto .actions{
+		text-align: center!important;
+	}
+	.et-topbar-auto .actions{
+		margin-top: 20px;
+	}
+	.et-logo-auto{
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	.et-navbar-auto.landing2 .et-logo-auto{
+		margin-bottom: 0;
+	}
+	.et-logo-auto img{
+		width: 150px;
+		margin-top: 0;
+	}
+	.et-navbar-auto .clip-header{
+		display: none;
+	}
+	.heading-vertical{
+		display: none;
+	}
+	.section-heading-auto h1{
+		font-size: 2.7rem;
+	}
+	.et-featured-auto .car-features{
+		text-align: center;
+		background-color: transparent;
+	}
+	.et-featured-auto .car-features span{
+		display: block;
+		margin-bottom: 5px;
+		margin-top: 5px;
+	}
+	.veaddress{
+		white-space: normal;
+	}
+	.footer-social-auto a{
+		margin-bottom: 10px;
+	}
+	.bottom-bar-auto ul li{
+		display: block;
+	}
+	.pricing-box {
+		margin-top: 70px !important;
+	}
+	.model-tag{
+		display: none;
+	}
+	.et-slider-auto .item{
+		height: auto;
+	}
+	.et-featured-auto .slider-inner{
+		transform: none;
+	}
+}
+
+@media (max-width: 575px) {
+	.et-latest-auto .v-img{
+		width: 100%;
+	}
+	.dealer-grp-auto .thumb-actions .share-auto {
+		display: inline-flex;
+	}
+	.top-filters .advance-search-btn,
+	.top-filters .search-btn{
+		width: auto;
+		margin-left: 0;
+	}
+	.auto-inventory .v-img{
+		width: 100%;
+	}
+	.et-contact-cards-auto .c-card{
+		width: 100%;
+		display: block !important;
+		text-align: center;
+	}
+	.et-contact-cards-auto .c-card i{
+		margin-right: 0;
+		margin-bottom: 20px;
+		display: block;
+	}
+	.section-heading-auto h1{
+		font-size: 2.1rem;
+	}
+	.hc-nav-trigger-auto{
+		right: 18px;
+	}
+	.et-slider-auto h1{
+		font-size: 2rem;
+	}
+	.et-slider-auto .btn-navigate{
+		display: none;
+	}
+	.et-slider-auto .slider-caption{
+		width: 100%;
+		left:0;
+		padding: 30px;
+	}
+	.et-slider-auto .slick-slider .item::before {
+		clip-path: none;
+		width: 100%;
+	}
+	.btn-auto:not(.btn-navigate){
+		font-size: 15px;
+		padding: 16px 20px;
+	}
+	.search-btn{
+		clip-path: none;
+	}
+	.advance-search-btn{
+		margin-left: 0;
+	}
+	.btn-navigate::before{
+		display: none;
+	}
+	.clipped-cta{
+		clip-path: polygon(0.94% 7.11%, 100% 0px, 100% 100%, 0% 100%);
+	}
+	.et-big-cta-auto h1{
+		font-size: 2rem;
+	}
+	.et-big-cta-auto .display-4{
+		font-size: 2.5rem;
+	}
+	.et-big-cta-auto:before{
+		font-size: 15rem;
+	}
+	.et-pagehead-auto .display-4{
+		font-size: 2.5rem;
+	}
+	.floatbox{
+		width: 90%;
+	}
+	.pagination-auto a, .pagination-auto span.current{
+		line-height: 2.2;
+		font-size: 16px;
+		width: 34px;
+		height: 34px;
+	}
+}
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+	.dealer-grp-auto .thumb-actions .share-auto {
+		display: inline-flex;
+	}
+}

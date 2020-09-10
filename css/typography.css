@@ -1,0 +1,80 @@
+@import url('typeface.css');
+body{
+	font-family: 'Poppins', sans-serif;
+	font-size: 16px;
+	color: #212121;
+}
+
+p{
+	font-family: 'Poppins', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	color: #212529;
+	line-height:28px;
+}
+
+.btn-auto{
+	transition:all ease 0.4s;
+  -webkit-transition:all ease 0.4s;
+  -moz-transition:all ease 0.4s;
+  -o-transition:all ease 0.4s;
+  -ms-transition:all ease 0.4s;	
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	transition: all ease 0.3s;
+}
+
+h1 {
+	font-size: 2.827em;
+}
+
+h2 {
+	font-size: 1.999em;
+}
+
+h3 {
+	font-size: 1.414em;
+}
+
+h4 {
+	font-size: 1.25em;
+}
+
+h5 {
+	font-size: 1em;
+}
+
+h6 {
+	font-size: 0.85em;
+}
+
+.et-topbar-auto,
+.btn-auto,
+.et-navbar-auto,
+.select2-results__group,
+.et-big-cta-auto .display-4,
+.et-big-cta-auto .h4{
+	font-family: 'Montserrat', sans-serif;
+}
+.dropdown-content-auto{
+	font-family: 'Poppins', sans-serif;
+	font-weight: 500;
+}
+.font-weight-medium{
+	font-weight: 500;
+}
+a{
+    transition: all .3s ease;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+}

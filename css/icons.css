@@ -1,0 +1,352 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon464a.eot?h6r69f');
+  src:  url('../fonts/icomoon464a.eot?h6r69f#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon464a.ttf?h6r69f') format('truetype'),
+    url('../fonts/icomoon464a.woff?h6r69f') format('woff'),
+    url('../fonts/icomoon464a.svg?h6r69f#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-3068054 .path1:before {
+  content: "\e900";
+  color: rgb(87, 102, 203);
+}
+.icon-3068054 .path2:before {
+  content: "\e901";
+  margin-left: -1em;
+  color: rgb(61, 79, 195);
+}
+.icon-3068054 .path3:before {
+  content: "\e902";
+  margin-left: -1em;
+  color: rgb(211, 239, 251);
+}
+.icon-3068054 .path4:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: rgb(177, 228, 249);
+}
+.icon-3068054 .path5:before {
+  content: "\e904";
+  margin-left: -1em;
+  color: rgb(255, 224, 125);
+}
+.icon-3068054 .path6:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: rgb(255, 208, 100);
+}
+.icon-3068054 .path7:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(255, 224, 125);
+}
+.icon-3068054 .path8:before {
+  content: "\e907";
+  margin-left: -1em;
+  color: rgb(226, 128, 134);
+}
+.icon-3068054 .path9:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(221, 99, 110);
+}
+.icon-3068054 .path10:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(244, 251, 255);
+}
+.icon-3068054 .path11:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(244, 251, 255);
+}
+.icon-3068054 .path12:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(244, 251, 255);
+}
+.icon-add:before {
+  content: "\e90c";
+}
+.icon-airbag:before {
+  content: "\e90d";
+}
+.icon-arrow:before {
+  content: "\e90e";
+}
+.icon-automatic-transmission:before {
+  content: "\e90f";
+}
+.icon-automation:before {
+  content: "\e910";
+}
+.icon-beetle:before {
+  content: "\e911";
+}
+.icon-call:before {
+  content: "\e912";
+}
+.icon-car:before {
+  content: "\e913";
+}
+.icon-car-1:before {
+  content: "\e914";
+}
+.icon-city-car:before {
+  content: "\e915";
+}
+.icon-clock:before {
+  content: "\e916";
+}
+.icon-clock-1:before {
+  content: "\e917";
+}
+.icon-close:before {
+  content: "\e918";
+}
+.icon-convertible:before {
+  content: "\e919";
+}
+.icon-correct:before {
+  content: "\e91a";
+}
+.icon-discount:before {
+  content: "\e91b";
+}
+.icon-discount1:before {
+  content: "\e91c";
+}
+.icon-down-arrow:before {
+  content: "\e91d";
+}
+.icon-driving:before {
+  content: "\e91e";
+}
+.icon-driving-1:before {
+  content: "\e91f";
+}
+.icon-enter:before {
+  content: "\e920";
+}
+.icon-fire:before {
+  content: "\e921";
+}
+.icon-fire-1:before {
+  content: "\e922";
+}
+.icon-flag:before {
+  content: "\e923";
+}
+.icon-fuel:before {
+  content: "\e924";
+}
+.icon-global:before {
+  content: "\e925";
+}
+.icon-hatchback:before {
+  content: "\e926";
+}
+.icon-heart:before {
+  content: "\e927";
+}
+.icon-high-quality:before {
+  content: "\e928";
+}
+.icon-list:before {
+  content: "\e929";
+}
+.icon-loan:before {
+  content: "\e92a";
+}
+.icon-login:before {
+  content: "\e92b";
+}
+.icon-mail:before {
+  content: "\e92c";
+}
+.icon-mail-1:before {
+  content: "\e92d";
+}
+.icon-menu:before {
+  content: "\e92e";
+}
+.icon-mpv:before {
+  content: "\e92f";
+}
+.icon-newsletter:before {
+  content: "\e930";
+}
+.icon-phone:before {
+  content: "\e931";
+}
+.icon-pickup:before {
+  content: "\e932";
+}
+.icon-pin:before {
+  content: "\e933";
+}
+.icon-play-button:before {
+  content: "\e934";
+}
+.icon-play-button-1:before {
+  content: "\e935";
+}
+.icon-premium:before {
+  content: "\e936";
+}
+.icon-price:before {
+  content: "\e937";
+}
+.icon-quote:before {
+  content: "\e938";
+}
+.icon-racing-car .path1:before {
+  content: "\e939";
+  color: rgb(18, 141, 170);
+}
+.icon-racing-car .path2:before {
+  content: "\e93a";
+  margin-left: -1em;
+  color: rgb(5, 92, 123);
+}
+.icon-racing-car .path3:before {
+  content: "\e93b";
+  margin-left: -1em;
+  color: rgb(169, 191, 209);
+}
+.icon-racing-car .path4:before {
+  content: "\e93c";
+  margin-left: -1em;
+  color: rgb(255, 216, 132);
+}
+.icon-racing-car .path5:before {
+  content: "\e93d";
+  margin-left: -1em;
+  color: rgb(255, 191, 65);
+}
+.icon-racing-car .path6:before {
+  content: "\e93e";
+  margin-left: -1em;
+  color: rgb(57, 77, 93);
+}
+.icon-racing-car .path7:before {
+  content: "\e93f";
+  margin-left: -1em;
+  color: rgb(209, 227, 238);
+}
+.icon-racing-car .path8:before {
+  content: "\e940";
+  margin-left: -1em;
+  color: rgb(57, 77, 93);
+}
+.icon-racing-car .path9:before {
+  content: "\e941";
+  margin-left: -1em;
+  color: rgb(209, 227, 238);
+}
+.icon-racing-car .path10:before {
+  content: "\e942";
+  margin-left: -1em;
+  color: rgb(255, 191, 65);
+}
+.icon-racing-car .path11:before {
+  content: "\e943";
+  margin-left: -1em;
+  color: rgb(169, 191, 209);
+}
+.icon-racing-car .path12:before {
+  content: "\e944";
+  margin-left: -1em;
+  color: rgb(178, 29, 72);
+}
+.icon-register:before {
+  content: "\e945";
+}
+.icon-reload:before {
+  content: "\e946";
+}
+.icon-road-block:before {
+  content: "\e947";
+}
+.icon-sale:before {
+  content: "\e948";
+}
+.icon-sale-1:before {
+  content: "\e949";
+}
+.icon-search:before {
+  content: "\e94a";
+}
+.icon-second:before {
+  content: "\e94b";
+}
+.icon-sedan:before {
+  content: "\e94c";
+}
+.icon-send:before {
+  content: "\e94d";
+}
+.icon-sensor:before {
+  content: "\e94e";
+}
+.icon-server:before {
+  content: "\e94f";
+}
+.icon-share:before {
+  content: "\e950";
+}
+.icon-shopping-cart:before {
+  content: "\e951";
+}
+.icon-speed:before {
+  content: "\e952";
+}
+.icon-speed-1:before {
+  content: "\e953";
+}
+.icon-sportcar:before {
+  content: "\e954";
+}
+.icon-steering-wheel:before {
+  content: "\e955";
+}
+.icon-suv:before {
+  content: "\e956";
+}
+.icon-system:before {
+  content: "\e957";
+}
+.icon-traffic-light:before {
+  content: "\e958";
+}
+.icon-transport:before {
+  content: "\e959";
+}
+.icon-tyre:before {
+  content: "\e95a";
+}
+.icon-user:before {
+  content: "\e95b";
+}
+.icon-van:before {
+  content: "\e95c";
+}

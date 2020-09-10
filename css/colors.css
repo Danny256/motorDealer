@@ -1,0 +1,186 @@
+
+/************* Primary Text/Icon Color *************/
+.text-primary-auto,
+.et-navbar-auto.landing2 .nav-links > li > a:hover,
+.et-browse-auto.landing2 .manufacturer:hover,
+.et-dropdown-auto .dropdown-content-auto a:hover,
+.text-hover-primary-auto:hover,
+.btn-navigate.white i,
+.range-slider .irs--big .irs-handle:before,
+.show-features i,
+.et-footer-auto ul li a.text-gray:hover,
+.et-pagehead-auto ul li a:hover,
+.post-nav a:hover,
+.blog-content-auto ul li:before,
+.features-tabs > li > a.nav-link.active,
+.calculator-form:after,
+.et-featured-auto .car-features i,
+.car-features-2 span i,
+.footer-nav-2 li a:hover
+{
+	background: linear-gradient(90deg, rgba(255,106,0,1) 0%, rgba(195,51,50,1) 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-moz-transition: all 300ms ease-in-out 0s;
+    -webkit-transition: all 300ms ease-in-out 0s;
+    -o-transition: all 300ms ease-in-out 0s;
+    -ms-transition: all 300ms ease-in-out 0s;
+    transition: all 300ms ease-in-out 0s;
+}
+
+/************* Primary BG Color *************/
+#backTop,
+.bg-primary-auto,
+.range-slider .irs--big .irs-bar,
+.select2-container--default .select2-results__option--highlighted[aria-selected],
+.category-heading:after,
+.slick-prev,
+.et-whyus-auto .img-sticker:before,
+.et-testimonial-auto .customer-name:before,
+.et-footer-auto .footer-heading-auto:after,
+.hc-nav-trigger-auto > span,
+.hc-nav-trigger-auto > span:before,
+.hc-nav-trigger-auto > span:after,
+.et-pagehead-auto ul li:last-child:before,
+.et-add-listing-auto .nav-link:after,
+.features-tabs .nav-link:after,
+.check-types-auto input[type="checkbox"]:checked + .cbx,
+.check-types-auto input[type="radio"]:checked + .rdo,
+.thumb-actions > a,
+.thumb-actions .share-auto,
+blockquote.auto:before,
+.tags-auto a:hover,
+.pagination-auto span.current,
+.pagination-auto a.page-numbers:hover,
+.et_product_reviews_details ul li a.active,
+.et_product_reviews_details ul li a.active,
+.section-heading-auto.landing2 h2:before,
+.preloader .preloader-container .animated-preloader,
+.preloader .preloader-container .animated-preloader:before
+{
+	background: rgb(255,106,0);
+	background: linear-gradient(90deg, rgba(255,106,0,1) 0%, rgba(195,51,50,1) 100%);
+	transition: all .3s ease;
+    -moz-transition: all 300ms ease-in-out 0s;
+    -webkit-transition: all 300ms ease-in-out 0s;
+    -o-transition: all 300ms ease-in-out 0s;
+    -ms-transition: all 300ms ease-in-out 0s;
+    transition: all 300ms ease-in-out 0s;
+}
+
+a.btn-auto:hover{
+    background: rgb(185 103 45);
+    background: linear-gradient(90deg, rgb(97 49 14) 0%, rgb(189 43 42) 100%);
+}
+
+/************* Secondary BG Color *************/
+#backTop:hover,
+.bg-secondary-auto,
+.btn-navigate.dark i,
+.irs--big .irs-from, .irs--big .irs-to, .irs--big .irs-single,
+.model-tag:before,
+.slick-next,
+.btn-navigate.dark i,
+body.et-automotive .hc-offcanvas-nav .nav-wrapper,
+.thumb-actions > a:hover,
+.thumb-actions .share-auto:hover,
+.pagination-auto a.page-numbers,
+.et-navbar-auto .add-car:hover:before,
+.et_product_reviews_details ul li a,
+.thumb-actions .share-auto > a
+{
+	background-color: #212121 !important;
+	transition: all .3s ease;
+    -moz-transition: all 300ms ease-in-out 0s;
+    -webkit-transition: all 300ms ease-in-out 0s;
+    -o-transition: all 300ms ease-in-out 0s;
+    -ms-transition: all 300ms ease-in-out 0s;
+    transition: all 300ms ease-in-out 0s;
+}
+
+/************* Primary Border *************/
+.border-primary-auto,
+.form-control:focus,
+.check-types-auto .cbx,
+.check-types-auto .rdo
+{
+	border-color: #fe5133 !important;
+	transition: all .3s ease;
+   -moz-transition: all 300ms ease-in-out 0s;
+    -webkit-transition: all 300ms ease-in-out 0s;
+    -o-transition: all 300ms ease-in-out 0s;
+    -ms-transition: all 300ms ease-in-out 0s;
+    transition: all 300ms ease-in-out 0s;
+}
+
+.text-black-50 {
+    color: rgba(0,0,0,.7)!important;
+}
+
+/************* Form labels color ***********/
+.text-label{
+	color: rgba(0, 0, 0, 0.6);
+}
+
+/************* BG Section color ***********/
+.bg-light {
+    background-color: #f1f2f6 !important;
+}
+
+/************* Social Icons Color *************/
+.fb-icon{
+	background-color: #4064ad; /* Facebook */
+}
+.tw-icon{
+	background-color: #1c9ceb; /* Twitter */
+}
+.yt-icon{
+	background-color: #f80000; /* Youtube */
+}
+.ig-icon{
+	background-color: #dd3560; /* instagram */
+}
+.gp-icon{
+	background-color: #d5493e; /* Google Plus */
+}
+.li-icon{
+	background-color: #0070ac; /* LinkedIn */
+}
+.pi-icon{
+	background-color: #c8232c; /* Pinterest */
+}
+.wa-icon{
+	background-color: #075E54; /* WhatsApp */
+}
+
+/************* Selection Color *************/
+
+::selection {
+	background: #191919;
+	color:#ffffff !important;
+	-webkit-text-fill-color: #fff;
+}
+::-webkit-selection {
+	background: #191919;
+	color: #ffffff !important;
+	-webkit-text-fill-color: #fff;
+}
+::-moz-selection {
+	background: #191919;
+	color: #ffffff !important;
+	-webkit-text-fill-color: #fff;
+}
+
+
+::-webkit-input-placeholder {
+	color: rgba(0,0,0,0.6) !important;
+}
+::-moz-placeholder {
+	color: rgba(0,0,0,0.6) !important;
+}
+:-ms-input-placeholder {
+	color: rgba(0,0,0,0.6) !important;
+}
+:-moz-placeholder {
+	color: rgba(0,0,0,0.6) !important;
+}
